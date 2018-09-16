@@ -12,7 +12,7 @@ IBM is making open source software developer tool
 
 A free way to experiment.
 
-So you can click on the following to connect your computer through IBM cloud quantum computer. 
+So you can click on the following link to connect your classical computer through IBM cloud quantum computer. 
 
 # https://quantumexperience.ng.bluemix.net/qx/editor?codeId=ece08efa879b99ee0054570699dcf3de
 

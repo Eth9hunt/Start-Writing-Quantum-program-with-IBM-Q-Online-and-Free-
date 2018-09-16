@@ -14,4 +14,4 @@ A free way to experiment.
 
 So you can click on the following to connect your computer through IBM cloud quantum computer. 
 
-# https://www.research.ibm.com/ibm-q/technology/devices/
+# https://quantumexperience.ng.bluemix.net/qx/editor?codeId=ece08efa879b99ee0054570699dcf3de

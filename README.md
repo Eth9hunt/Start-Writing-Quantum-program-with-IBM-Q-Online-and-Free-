@@ -22,4 +22,4 @@ https://www-01.ibm.com/marketing/iwm/dre/signup?source=MAIL-power&disableCookie=
 
 Its Free to signup.. 
 
-Go, Explore and be a part of quantum computing.... a future technology..... to access everything at the level of elementary particles of the world.
+# Go, Explore and be the part of quantum computing.... a future technology..... to access everything at the level of elementary particles of the world.

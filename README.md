@@ -24,3 +24,5 @@ Its Free to signup..
 
 # Go, Explore and be a part of quantum computing.... a future technology..... to access everything at a level of elementary particles of the world.
 
+For beginners::
+# Download the word file given in this repository and follow the instructions.
